@@ -1,3 +1,7 @@
+name: 3 Stories Trading Co.
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6905565
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4739074
-  brandStrength: 0.4932546
-  lightness: 0.2152246
   brandColors:
     - '#FFFFFF'
     - '#424648'
     - '#52C5BC'
     - '#B6B8B9'
     - '#BCE8E5'
+  brandStrength: 0.4932546
+  lightness: 0.2152246
+  saturation: 0.4739074
   rhythmicContrast: 0.4962789
-typography_spectrum: 0.6905565
-layout_spectrum: 0.7445194
-name: 3 Stories Trading Co.
+purpose: []

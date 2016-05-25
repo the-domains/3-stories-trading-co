@@ -1,14 +1,26 @@
-layout_spectrum: 0.8929174
-typography_spectrum: 0.6905565
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4739074
-  lightness: 0.2152246
   brandStrength: 0.4932546
+  lightness: 0.2152246
   brandColors:
     - '#FFFFFF'
-    - '#E5E4E9'
-    - '#BEBEB6'
-    - '#967869'
-    - '#CDA871'
+    - '#424648'
+    - '#52C5BC'
+    - '#B6B8B9'
+    - '#BCE8E5'
   rhythmicContrast: 0.4962789
+typography_spectrum: 0.6905565
+layout_spectrum: 0.7445194
 name: 3 Stories Trading Co.
